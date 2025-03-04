@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Gigachad.Utility
+namespace FarmingRPG.Utilitys
 {
     public static class YieldInstructionCache
     {
