@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.Pool;
 
-namespace Gigachad.Utility
+namespace FarmingRPG.Utilities
 {
     public class PoolManager : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace FarmingRPG.Utilitys
+namespace FarmingRPG.Utilities
 {
     public static class YieldInstructionCache
     {

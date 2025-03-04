@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace Gigachad.Utility
+namespace FarmingRPG.Utilities
 {
     public class CooldownCoroutineCache
     {

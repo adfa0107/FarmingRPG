@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Gigachad.Utility
+namespace FarmingRPG.Utilities
 {
     public abstract class PooledComponent : MonoBehaviour
     {

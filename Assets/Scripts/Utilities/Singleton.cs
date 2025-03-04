@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Gigachad.Utility
+namespace FarmingRPG.Utilities
 {
     public abstract class Singleton<T> : MonoBehaviour where T : Component
     {
